@@ -1,0 +1,3 @@
+const childComponent = () => {
+  return <> "childComponent" </>;
+};
